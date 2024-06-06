@@ -41,8 +41,8 @@ EduNexus is a comprehensive E-learning platform built using the MERN stack (Mong
    npm install
 3. **Install client dependencies:**
    ```bash
-  cd ../client
-  npm install
+     cd ../client
+     npm install
   
 4. **Set up environment variables:**
   Create a .env file in the server directory with the following content:
@@ -52,10 +52,12 @@ EduNexus is a comprehensive E-learning platform built using the MERN stack (Mong
    
 5. **Run the application:**
    ```bash
+   //server
    cd server
-    npm start
+   npm start
+   //client
    cd ../client
-    npm start
+   npm start
 6. **Open the application:**
    - Navigate to http://localhost:5173 in your browser.
 
@@ -81,10 +83,17 @@ EduNexus is a comprehensive E-learning platform built using the MERN stack (Mong
 
 ## Screenshots
 
+## Home Page
 ![Home Page](screenshots/home.png)
+
+## Register
 ![Register](screenshots/register.png)
+
+## Courses
 ![Courses](screenshots/courses.png)
-![Admin Panal](screenshots/admin.png)
+
+## Admin Panel
+![Admin Panel](screenshots/admin.png)
 
 
 ## Contact
