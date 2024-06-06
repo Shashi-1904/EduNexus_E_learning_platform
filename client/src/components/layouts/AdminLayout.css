@@ -1,0 +1,47 @@
+/* Admin Sidebar CSS */
+.admin-sidebar {
+  
+  padding: 15px;
+  width: 250px;
+  min-height: 100vh;
+  position: fixed;
+  top: 120px; 
+  left: 0;
+  box-shadow: 0 4px 6px rgba(105, 103, 177, 0.9);
+}
+h3{
+  font-size: large;
+  margin-bottom: 3rem;
+  padding: 1rem;
+  
+}
+.admin-sidebar nav ul {
+  list-style: none;
+  padding: 0;
+  display: block;
+}
+
+.admin-sidebar nav ul li {
+  margin: 10px 0;
+  border-radius: 1rem;
+  padding: 1rem;
+  
+  box-shadow: 0 4px 6px rgba(105, 103, 177, 0.9);
+}
+
+.admin-sidebar nav ul li a {
+  color: #333;
+  text-decoration: none;
+  display: flex;
+  align-items: center;
+}
+
+.admin-sidebar nav ul li a:hover {
+  color: #007bff;
+}
+
+.admin-sidebar nav ul li a svg {
+  margin-right: 8px;
+}
+
+
