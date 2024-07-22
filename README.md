@@ -84,10 +84,13 @@ EduNexus is a comprehensive E-learning platform built using the MERN stack (Mong
 ## Screenshots
 
 ## Home Page
-![Home Page](screenshots/home.png)
+![Home Page](screenshots/Homepage.png)
 
 ## Register
 ![Register](screenshots/register.png)
+
+## Feedback
+![Feedback](screenshots/Feedback.png)
 
 ## Courses
 ![Courses](screenshots/courses.png)
@@ -100,5 +103,5 @@ EduNexus is a comprehensive E-learning platform built using the MERN stack (Mong
 
 For any inquiries or feedback, please contact:
 
-- **Email**: shashikantpawase71@gmail.com
+- **Email**: shashikantp2302@gmail.com
 
