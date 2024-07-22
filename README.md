@@ -47,7 +47,7 @@ EduNexus is a comprehensive E-learning platform built using the MERN stack (Mong
 4. **Set up environment variables:**
   Create a .env file in the server directory with the following content:
    ```bash
-     MONGO_URI=your_mongo_database_uri
+    MONGO_URI=your_mongo_database_uri
     JWT_SECRET=your_jwt_secret
    
 5. **Run the application:**
